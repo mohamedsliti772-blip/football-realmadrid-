@@ -1,0 +1,57 @@
+competition,adversaire,domicile,buts_rm,buts_adv,resultat
+La Liga,Athletic Bilbao,False,2,0,Victoire
+La Liga,Almería,False,3,1,Victoire
+La Liga,Celta Vigo,False,1,0,Victoire
+La Liga,Getafe,True,2,1,Victoire
+La Liga,Real Sociedad,True,2,1,Victoire
+La Liga,Atlético Madrid,False,1,3,Défaite
+La Liga,Las Palmas,True,2,0,Victoire
+La Liga,Girona,False,3,0,Victoire
+La Liga,Osasuna,True,4,0,Victoire
+La Liga,Sevilla,False,1,1,Nul
+La Liga,Barcelona,False,2,1,Victoire
+La Liga,Rayo Vallecano,True,0,0,Nul
+La Liga,Valencia,True,5,1,Victoire
+La Liga,Cádiz,False,3,0,Victoire
+La Liga,Granada,True,2,0,Victoire
+La Liga,Betis,False,1,1,Nul
+La Liga,Villarreal,True,4,1,Victoire
+La Liga,Alavés,False,1,0,Victoire
+La Liga,Mallorca,True,1,0,Victoire
+La Liga,Almería,True,3,2,Victoire
+La Liga,Las Palmas,False,2,1,Victoire
+La Liga,Getafe,False,2,0,Victoire
+La Liga,Atlético Madrid,True,1,1,Nul
+La Liga,Girona,True,4,0,Victoire
+La Liga,Rayo Vallecano,False,1,1,Nul
+La Liga,Sevilla,True,1,0,Victoire
+La Liga,Valencia,False,2,2,Nul
+La Liga,Celta Vigo,True,4,0,Victoire
+La Liga,Osasuna,False,4,2,Victoire
+La Liga,Athletic Bilbao,True,2,0,Victoire
+La Liga,Mallorca,False,1,0,Victoire
+La Liga,Barcelona,True,3,2,Victoire
+La Liga,Real Sociedad,False,1,0,Victoire
+La Liga,Cádiz,True,3,0,Victoire
+La Liga,Granada,False,4,0,Victoire
+La Liga,Alavés,True,5,0,Victoire
+La Liga,Villarreal,False,4,4,Nul
+La Liga,Betis,True,0,0,Nul
+Champions League,Union Berlin,True,1,0,Victoire
+Champions League,Napoli,False,3,2,Victoire
+Champions League,Braga,False,2,1,Victoire
+Champions League,Braga,True,3,0,Victoire
+Champions League,Napoli,True,4,2,Victoire
+Champions League,Union Berlin,False,3,2,Victoire
+Champions League,RB Leipzig,False,1,0,Victoire
+Champions League,RB Leipzig,True,1,1,Nul
+Champions League,Man City,True,3,3,Nul
+Champions League,Man City,False,1,1,Nul
+Champions League,Bayern Munich,False,2,2,Nul
+Champions League,Bayern Munich,True,2,1,Victoire
+Champions League,Borussia Dortmund,False,2,0,Victoire
+Supercoupe d’Espagne,Atlético Madrid,True,5,3,Victoire
+Supercoupe d’Espagne,Barcelona,True,4,1,Victoire
+Copa del Rey,Arandina,False,3,1,Victoire
+Copa del Rey,Atlético Madrid,False,2,4,Défaite
+Supercoupe d’Europe,Atalanta,False,2,0,Victoire
