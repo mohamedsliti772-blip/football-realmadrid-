@@ -5,6 +5,7 @@
 # =============================================================================
 #  Real Madrid – Dashboard Analytics  |  Saison 2024
 # =============================================================================
+#importation des bibliothèques:
 
 import streamlit as st
 import pandas as pd
@@ -42,8 +43,8 @@ st.markdown(f"""
 </style>
 """, unsafe_allow_html=True)
 
-# =============================================================================
-# CHARGEMENT DES DONNÉES
+# ============================================================================
+#chargement data:
 # =============================================================================
 
 @st.cache_data
@@ -103,7 +104,7 @@ print("INFO – titres")
 print("=" * 60)
 titres.info()
 
-# ── Statistiques descriptives (df.describe) ───────────────────────────────────
+# ── Statistiques descriptives en utilisant l'instruction (df.describe) ───────────────────────────────────
 print("\n" + "=" * 60)
 print("DESCRIBE – joueurs")
 print("=" * 60)
