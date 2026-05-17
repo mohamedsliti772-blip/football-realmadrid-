@@ -1,3 +1,7 @@
+#CE PROJET REFLETE LA PERFORMANCE DE REAL MADRID DANS 2024
+
+
+
 # =============================================================================
 #  Real Madrid – Dashboard Analytics  |  Saison 2024
 # =============================================================================
@@ -240,6 +244,12 @@ st.sidebar.caption("Dashboard réalisé avec Streamlit · Données réalistes")
 # =============================================================================
 # PAGE 1 – VUE D'ENSEMBLE
 # =============================================================================
+
+#Voici la page de vue d'ensemble 
+
+
+
+#le grand chelem sportif 
 
 if page == "🏠 Vue d'ensemble":
 
